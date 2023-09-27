@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.bordered-div {
+    width: 150px;
+    height: 100px;
+    background-color: #fff;
+    border: 2px solid #007BFF;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+    margin: 10px;
+}
